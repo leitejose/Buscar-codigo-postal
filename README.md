@@ -1,2 +1,2 @@
 # Buscar-codigo-postal
- Buscador de codigo postal consumindo API do CTT
+ Consumo de API do Geo API.pt para consultar endereços utilizando o codigo postal.
